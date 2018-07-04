@@ -1,0 +1,21 @@
+{
+  "name": "koa-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel index.html",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "d3": "^3.5.17",
+    "koa": "^2.5.1",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-live": "^1.10.1"
+  }
+}
