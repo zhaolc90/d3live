@@ -1,0 +1,890 @@
+{
+  "service": {
+    "responsecode": [
+      "0"
+    ],
+    "timestamp": [
+      "7/4/2018 1:34:00 PM"
+    ],
+    "subway": [
+      {
+        "line": [
+          {
+            "name": [
+              "123"
+            ],
+            "status": [
+              "DELAYS"
+            ],
+            "text": [
+              "\r\n                    <span class=\"TitleDelay\">Delays</span>\r\n                    <span class=\"DateStyle\">\r\n                    &nbsp;Posted:&nbsp;07/04/2018&nbsp;12:11PM\r\n                    </span><br/><br/>\r\n                  <P>[2] and [3] trains are running with delays in both directions because of signal problems at <STRONG>Wall St.</STRONG></P>\r\n<P>Our crews are on the scene working to restore service as quickly as possible.</P>\r\n                <br/><br/>\r\n              "
+            ],
+            "Date": [
+              "07/04/2018"
+            ],
+            "Time": [
+              "12:11PM"
+            ]
+          },
+          {
+            "name": [
+              "456"
+            ],
+            "status": [
+              "GOOD SERVICE"
+            ],
+            "text": [
+              ""
+            ],
+            "Date": [
+              ""
+            ],
+            "Time": [
+              ""
+            ]
+          },
+          {
+            "name": [
+              "7"
+            ],
+            "status": [
+              "GOOD SERVICE"
+            ],
+            "text": [
+              ""
+            ],
+            "Date": [
+              ""
+            ],
+            "Time": [
+              ""
+            ]
+          },
+          {
+            "name": [
+              "ACE"
+            ],
+            "status": [
+              "PLANNED WORK"
+            ],
+            "text": [
+              "\r\n                    <span class=\"TitlePlannedWork\" >Planned Work</span>\r\n                    <br/>\r\n                  <a class=\"plannedWorkDetailLink\" onclick=ShowHide(191353);><b>ROCKAWAYS: FLOOD PROTECTION | Until September 3, 2018<br clear=left>No [A] trains running to Far Rockaway-Mott Av<br clear=left>No [S] Rockaway Park Shuttle service at Broad Channel</a><br/><br/><div id= 191353 class=\"plannedWorkDetail\" ><br></b>[A] trains run between <b>Inwood-207 St</b>, Manhattan and <b>Rockaway Park-Beach 116 St</b>, Queens.<br><br>The [S] Rockaway Park Shuttle runs, approximately <i>every 15 minutes,</i> between <b>Rockaway Park-Beach 116 St</b> and <b>Beach 90 St</b> and via the [A] <i>to/from</i> <b>Far Rockaway-Mott Av</b>.<br><br>For <b>Far Rockaway-Mott Av</b> service, take the [S] instead, transfer at Beach 90 St.<br><br>For <b>Broad Channel</b> [S] shuttle customers, take the [A] instead.<br><br><table class=plannedworkTableStyle ><tr><td rowspan=2> [ad1]  <td>For an accessible connection between the [A] train and [S] shuttle trains, transfer at <b>Rockaway Park-Beach 116 St</b></font>.  </font></table><br><b><br></div></b><br/>\r\n                <br/><br/>\r\n              "
+            ],
+            "Date": [
+              "07/04/2018"
+            ],
+            "Time": [
+              " 1:32PM"
+            ]
+          },
+          {
+            "name": [
+              "BDFM"
+            ],
+            "status": [
+              "GOOD SERVICE"
+            ],
+            "text": [
+              ""
+            ],
+            "Date": [
+              ""
+            ],
+            "Time": [
+              ""
+            ]
+          },
+          {
+            "name": [
+              "G"
+            ],
+            "status": [
+              "GOOD SERVICE"
+            ],
+            "text": [
+              ""
+            ],
+            "Date": [
+              ""
+            ],
+            "Time": [
+              ""
+            ]
+          },
+          {
+            "name": [
+              "JZ"
+            ],
+            "status": [
+              "GOOD SERVICE"
+            ],
+            "text": [
+              ""
+            ],
+            "Date": [
+              ""
+            ],
+            "Time": [
+              ""
+            ]
+          },
+          {
+            "name": [
+              "L"
+            ],
+            "status": [
+              "GOOD SERVICE"
+            ],
+            "text": [
+              ""
+            ],
+            "Date": [
+              ""
+            ],
+            "Time": [
+              ""
+            ]
+          },
+          {
+            "name": [
+              "NQR"
+            ],
+            "status": [
+              "DELAYS"
+            ],
+            "text": [
+              "\r\n                    <span class=\"TitleDelay\">Delays</span>\r\n                    <span class=\"DateStyle\">\r\n                    &nbsp;Posted:&nbsp;07/04/2018&nbsp; 1:06PM\r\n                    </span><br/><br/>\r\n                  <P>Southbound [Q] trains are running with delays because of track maintenance between <STRONG>Sheepshead Bay </STRONG>and <STRONG>Brighton Beach.</STRONG></P>\r\n<P>Â </P>\r\n                <br/><br/>\r\n              "
+            ],
+            "Date": [
+              "07/04/2018"
+            ],
+            "Time": [
+              " 1:06PM"
+            ]
+          },
+          {
+            "name": [
+              "S"
+            ],
+            "status": [
+              "PLANNED WORK"
+            ],
+            "text": [
+              "\r\n                    <span class=\"TitlePlannedWork\" >Planned Work</span>\r\n                    <br/>\r\n                  <a class=\"plannedWorkDetailLink\" onclick=ShowHide(191353);><b>ROCKAWAYS: FLOOD PROTECTION | Until September 3, 2018<br clear=left>No [A] trains running to Far Rockaway-Mott Av<br clear=left>No [S] Rockaway Park Shuttle service at Broad Channel</a><br/><br/><div id= 191353 class=\"plannedWorkDetail\" ><br></b>[A] trains run between <b>Inwood-207 St</b>, Manhattan and <b>Rockaway Park-Beach 116 St</b>, Queens.<br><br>The [S] Rockaway Park Shuttle runs, approximately <i>every 15 minutes,</i> between <b>Rockaway Park-Beach 116 St</b> and <b>Beach 90 St</b> and via the [A] <i>to/from</i> <b>Far Rockaway-Mott Av</b>.<br><br>For <b>Far Rockaway-Mott Av</b> service, take the [S] instead, transfer at Beach 90 St.<br><br>For <b>Broad Channel</b> [S] shuttle customers, take the [A] instead.<br><br><table class=plannedworkTableStyle ><tr><td rowspan=2> [ad1]  <td>For an accessible connection between the [A] train and [S] shuttle trains, transfer at <b>Rockaway Park-Beach 116 St</b></font>.  </font></table><br><b><br></div></b><br/>\r\n                <br/><br/>\r\n              "
+            ],
+            "Date": [
+              "07/04/2018"
+            ],
+            "Time": [
+              " 1:32PM"
+            ]
+          },
+          {
+            "name": [
+              "SIR"
+            ],
+            "status": [
+              "GOOD SERVICE"
+            ],
+            "text": [
+              ""
+            ],
+            "Date": [
+              ""
+            ],
+            "Time": [
+              ""
+            ]
+          }
+        ]
+      }
+    ],
+    "bus": [
+      {
+        "line": [
+          {
+            "name": [
+              "B1 - B84"
+            ],
+            "status": [
+              "SERVICE CHANGE"
+            ],
+            "text": [
+              "\r\n                  <span class=\"TitleServiceChange\" >Service Change</span>\r\n                  <span class=\"DateStyle\">\r\n                  &nbsp;Posted:&nbsp;07/04/2018&nbsp;12:55PM\r\n                  </span>\r\n                  <br/>\r\n                  <br/>\r\n                <P><STRONG>B32 </STRONG>buses are detoured because of 4th of July Fireworks on Kent Av between Metropolitan Av and N 12 St. </P>\r\n<P>Detour is as follows:</P>\r\n<P><STRONG>B32 Northbound to Long Island City</STRONG>: Via Kent Av, right on Metropolitan Av, left on Berry St, left on N 13 St, right on Kent Av and then resume the regular route.</P>\r\n<P>All corresponding stops will be made along the detoured route.</P>\r\n              <br/>\r\n              <br/>\r\n            \r\n                  <span class=\"TitlePlannedWork\" >Planned Detour</span>\r\n                  <br/>\r\n                <a class=\"plannedWorkDetailLink\" onclick=ShowHide(192973);><b>B82/B82 </b>LTD - <b>No service to the Rockaway Pkwy [L] Station</a><br/><br/><div id= 192973 class=\"plannedWorkDetail\" ></b>Until further notice<br><br>Due to construction, please use the nearby stops on:<br><br>&bull;  Rockaway Pkwy at Conklin Av<br><br>&bull;  Flatlands Av between East 100 St and East 101 St <br><br><b><i><a style=\"cursor:pointer; text-decoration:underline;\" onclick=ShowHide(1929730);>Show Reroute Details</a></i></b><br><div id=\"1929730\"; style=\"display:none;\"><b>Eastbound<br></b>Via Glenwood Rd<br>Right on Rockaway Pkwy<br>Left on Flatlands Av<br>Continue on Flatlands then regular route<br><br><b>Westbound<br></b>Via Glenwood Rd<br>Right on Rockaway Pkwy<br>Right on Flatlands Av<br>Continue on Flatlands Av then regular route</div><br><br><b>Reminder</b>: <b>B82 </b>LTD buses do not operate weekends or overnight.<br><b><br></div></b><br/>\r\n              <br/>\r\n              <br/>\r\n            \r\n                  <span class=\"TitlePlannedWork\" >Planned Detour</span>\r\n                  <br/>\r\n                <a class=\"plannedWorkDetailLink\" onclick=ShowHide(193363);><b>B61 </b>-<b> Northbound buses rerouted from Van Dyke St at Ostego St to Richards St </a><br/><br/><div id= 193363 class=\"plannedWorkDetail\" ></b>7 AM to 5 PM, Mon to Fri, Jun 25 - Jul 6<br><br>Due to construction, buses run via <b>Beard St </b>making corresponding stops.<br><br><b><i><a style=\"cursor:pointer; text-decoration:underline;\" onclick=ShowHide(1933630);>Show Reroute Details</a></i></b><br><div id=\"1933630\"; style=\"display:none;\">Via Ikea Terminal<br>Turn onto Beard St<br>Right on Richards St<br>Left on Van Dyke St then regular route</div><br><b><br></div></b><br/>\r\n              <br/>\r\n              <br/>\r\n            \r\n                  <span class=\"TitlePlannedWork\" >Planned Detour</span>\r\n                  <br/>\r\n                <a class=\"plannedWorkDetailLink\" onclick=ShowHide(192885);><b>B60</b> - <b>Southbound stops on Glenwood Rd at Rockaway Pkwy and East 100 St temporarily closed</a><br/><br/><div id= 192885 class=\"plannedWorkDetail\" ></b>Until further notice<br><br>Due to construction, please use the nearby temporary stops on:<br><br>&bull;  Flatlands Av between East 100 St and East 101 St<br><br>&bull;  Rockaway Pkwy between Farragut Rd and Glenwood Rd<br><br><b><i><a style=\"cursor:pointer; text-decoration:underline;\" onclick=ShowHide(1928850);>Show Reroute Details</a></i></b><br><div id=\"1928850\"; style=\"display:none;\">Via Rockway Pkwy<br>Left on Flatlands Av<br>Left on East 103 St<br>Right on Glenwood Rd then regular route</div><br><b><br></div></b><br/>\r\n              <br/>\r\n              <br/>\r\n            \r\n                  <span class=\"TitlePlannedWork\" >Planned Detour</span>\r\n                  <br/>\r\n                <a class=\"plannedWorkDetailLink\" onclick=ShowHide(192860);><b>B6/B6 </b>LTD -<b> Stops on Glenwood Rd at Rockaway Pkwy and the Rockaway Pkwy [L] Station<br clear=left>temporarily closed </a><br/><br/><div id= 192860 class=\"plannedWorkDetail\" ></b>Until further notice<br><br>Due to construction, please use the nearby temporary stop <b>on Rockaway Pkwy </b>at Glenwood Rd.<br><br><b><i><a style=\"cursor:pointer; text-decoration:underline;\" onclick=ShowHide(1928600);>Show Reroute Details</a></i></b><br><div id=\"1928600\"; style=\"display:none;\">Via Glenwood Rd<br>Right on Rockaway Pkwy<br>Right on Flatlands Av <br>Continue on Flatlands Av then regular route</div><br><br></font><b>Reminder</b>: <b>B6 </b>LTD buses do not operate Sundays or overnight.<br></font><b><br></div></b><br/>\r\n              <br/>\r\n              <br/>\r\n            \r\n                  <span class=\"TitlePlannedWork\" >Planned Detour</span>\r\n                  <br/>\r\n                <a class=\"plannedWorkDetailLink\" onclick=ShowHide(192953);><b>B6/B6 </b>LTD - <b>Eastbound stops on Glenwood Rd at Rockaway Pkwy and East 100 St<br clear=left>temporarily closed</b><i> <b>and </i>rerouted from Glenwood Rd at Rockaway Pkwy to East 103 St</a><br/><br/><div id= 192953 class=\"plannedWorkDetail\" ></b>Until further notice <br><br>Due to construction, please use nearby stops on:<br><br>&bull;  Rockaway Pkwy at Conklin Av<br><br>&bull;  Flatlands Av at East 100 St and East 101 St<br><br><b><i><a style=\"cursor:pointer; text-decoration:underline;\" onclick=ShowHide(1929530);>Show Reroute Details</a></i></b><br><div id=\"1929530\"; style=\"display:none;\">Via Glenwood Rd<br>Right on Rockaway Pkwy<br>Left on Flatlands Av<br>Left on East 103 St<br>Right on Glenwood Rd then regular route<br><br><b>Reminder</b>: <b>B6 </b>LTD buses do not operate Sundays or overnight</div><br></font><b><br></div></b><br/>\r\n              <br/>\r\n              <br/>\r\n            \r\n                  <span class=\"TitlePlannedWork\" >Planned Detour</span>\r\n                  <br/>\r\n                <a class=\"plannedWorkDetailLink\" onclick=ShowHide(192883);><b>B42 </b>-<b> No service at the Rockaway Pkwy [L] Station<br clear=left>Buses rerouted from Rockaway Pkwy at Flatlands Av to Farragut Rd</a><br/><br/><div id= 192883 class=\"plannedWorkDetail\" ></b>Until further notice<br><br>Due to construction, buses operate between Glenwood Rd at Rockaway Pkwy and the Canarsie Pier.<br><br>Buses make corresponding stops <b>on East 96 St </b>at Conklin Av and Farragut Rd.<br><br><b><i><a style=\"cursor:pointer; text-decoration:underline;\" onclick=ShowHide(1928830);>Show Reroute Details</a></i></b><br><div id=\"1928830\"; style=\"display:none;\"><b>Northbound<br></b>Via Rockaway Pkwy<br>Left on Flatlands Av<br>Right on East 96 St<br>Right on Farragut Rd<br>Right on Rockaway Pkwy and take stand between Farragut Rd and Glenwood Rd<br><br><b>Southbound <br></b>From Rockaway Pkwy near Glenwood Rd<br>Continue on Rockaway Pkwy then regular route</div><br><b><br></div></b><br/>\r\n              <br/>\r\n              <br/>\r\n            \r\n                  <span class=\"TitlePlannedWork\" >Planned Detour</span>\r\n                  <br/>\r\n                <a class=\"plannedWorkDetailLink\" onclick=ShowHide(193831);><b>B36 buses rerouted from Surf Av between West 5 St and West 22 St </a><br/><br/><div id= 193831 class=\"plannedWorkDetail\" ></b>3 AM to 6 PM, Wednesday, Jul 4<br><br>Due to a local event:<br><br><b>Eastbound</b>: Buses run via Mermaid Av and Neptune Av.<br><br><b>Westbound</b>: Buses run via Neptune Av.<br><br>Buses make corresponding stops along the detoured route.<br><br><b><i><a style=\"cursor:pointer; text-decoration:underline;\" onclick=ShowHide(1938310);>Show Reroute Details</a></i></b><br><div id=\"1938310\"; style=\"display:none;\"><b>Eastbound<br></b>Via Surf Av<br>Left on West 22 St<br>Right on Mermaid Av<br>Left on Stillwell Av<br>Right on Neptune Av to West 5 St then regular route<br><br><b>Westbound<br></b>Via Neptune Av<br>Left on West 23 St<br>Right on Surf Av then regular route</div><br><b><br></div></b><br/>\r\n              <br/>\r\n              <br/>\r\n            \r\n                  <span class=\"TitlePlannedWork\" >Planned Detour</span>\r\n                  <br/>\r\n                <a class=\"plannedWorkDetailLink\" onclick=ShowHide(193854);><b>B32 - Southbound buses rerouted from Wythe Av at Grand St to Broadway </a><br/><br/><div id= 193854 class=\"plannedWorkDetail\" ></b>11 AM to 10 PM, Wednesday, Jul 4<br><br>Due to a local event, buses run via <b>Driggs Av</b> making corresponding stops.<br><br><b><i><a style=\"cursor:pointer; text-decoration:underline;\" onclick=ShowHide(1938540);>Show Reroute Details</a></i></b><br><div id=\"1938540\"; style=\"display:none;\"><b>Southbound<br></b>Via Wythe Av<br>Left on Grand St<br>Right on Driggs Av<br>Left on Broadway then regular route</div><br><b><br></div></b><br/>\r\n              <br/>\r\n              <br/>\r\n            \r\n                  <span class=\"TitlePlannedWork\" >Planned Detour</span>\r\n                  <br/>\r\n                <a class=\"plannedWorkDetailLink\" onclick=ShowHide(140601);><b>B24</b> - <b>Northbound buses may experience delays due to construction on Greenpoint Av at West St  </a><br/><br/><div id= 140601 class=\"plannedWorkDetail\" ></b>Until further notice<br><b>        </b>  <a href=http://bustime.mta.info/ target=_blank><img height=30px src=http://web.mta.info/nyct/images/Bus_Time_logo.png></a><b>       <br></div></b><br/>\r\n              <br/>\r\n              <br/>\r\n            "
+            ],
+            "Date": [
+              "07/04/2018"
+            ],
+            "Time": [
+              "12:55PM"
+            ]
+          },
+          {
+            "name": [
+              "B100 - B103"
+            ],
+            "status": [
+              "GOOD SERVICE"
+            ],
+            "text": [
+              ""
+            ],
+            "Date": [
+              ""
+            ],
+            "Time": [
+              ""
+            ]
+          },
+          {
+            "name": [
+              "BM1 - BM5"
+            ],
+            "status": [
+              "GOOD SERVICE"
+            ],
+            "text": [
+              ""
+            ],
+            "Date": [
+              ""
+            ],
+            "Time": [
+              ""
+            ]
+          },
+          {
+            "name": [
+              "BX1 - BX55"
+            ],
+            "status": [
+              "PLANNED WORK"
+            ],
+            "text": [
+              "\r\n                  <span class=\"TitlePlannedWork\" >Planned Detour</span>\r\n                  <br/>\r\n                <a class=\"plannedWorkDetailLink\" onclick=ShowHide(164794);><b>Bx4/Bx4A, Bx5, Bx11 and Bx35 buses may experience delays<br clear=left>due to construction on Westchester Av between Southern Blvd and Hoe Av</a><br/><br/><div id= 164794 class=\"plannedWorkDetail\" ></b>Until further notice<br><b>          </b><a href=http://bustime.mta.info/ target=_blank><img height=30px src=http://web.mta.info/nyct/images/Bus_Time_logo.png></a><br><b>          <br></div></b><br/>\r\n              <br/>\r\n              <br/>\r\n            "
+            ],
+            "Date": [
+              "07/04/2018"
+            ],
+            "Time": [
+              " 1:32PM"
+            ]
+          },
+          {
+            "name": [
+              "BXM1 - BXM18"
+            ],
+            "status": [
+              "GOOD SERVICE"
+            ],
+            "text": [
+              ""
+            ],
+            "Date": [
+              ""
+            ],
+            "Time": [
+              ""
+            ]
+          },
+          {
+            "name": [
+              "M1 - M116"
+            ],
+            "status": [
+              "DELAYS"
+            ],
+            "text": [
+              "\r\n                  <span class=\"TitleDelay\">Delays</span>\r\n                  <span class=\"DateStyle\">\r\n                  &nbsp;Posted:&nbsp;07/04/2018&nbsp;12:12PM\r\n                  </span>\r\n                  <br/>\r\n                  <br/>\r\n                <P>Southbound <STRONG>M7</STRONG> and <STRONG>M11</STRONG> buses are bypassing the bus stop on Columbus Av at 86 St because of gas main work at 86 St and Columbus Av.</P>\r\n<P>Customers can board buses at 88 St and 84 St for southbound service.</P>\r\n              <br/>\r\n              <br/>\r\n            \r\n                  <span class=\"TitlePlannedWork\" >Planned Detour</span>\r\n                  <br/>\r\n                <a class=\"plannedWorkDetailLink\" onclick=ShowHide(192074);><b>M79 </b>SBS - <b>Westbound buses bypass the stop on 79 St at Madison Av</a><br/><br/><div id= 192074 class=\"plannedWorkDetail\" ></b>Until further notice<br><br>Due to construction, please use nearby stops <b>on 79 St </b>at Lexington Av or 5 Av.<br><b>                              [TP]<br></div></b><br/>\r\n              <br/>\r\n              <br/>\r\n            \r\n                  <span class=\"TitlePlannedWork\" >Planned Detour</span>\r\n                  <br/>\r\n                <a class=\"plannedWorkDetailLink\" onclick=ShowHide(193709);><b>M72</b> - <b>Eastbound stop on 72 St at Broadway temporarily closed </a><br/><br/><div id= 193709 class=\"plannedWorkDetail\" ></b>Until further notice<br><br>Due to construction, please use nearby stops <b>on 72 St </b>at <a href=http://bustime.mta.info/#400853%20M72 target=_blank><font color=#0000FF>West End Av</font></a> or Amsterdam Av.<br><b>                              [TP]<br></div></b><br/>\r\n              <br/>\r\n              <br/>\r\n            \r\n                  <span class=\"TitlePlannedWork\" >Planned Detour</span>\r\n                  <br/>\r\n                <a class=\"plannedWorkDetailLink\" onclick=ShowHide(193707);><b>M57</b> - <b>Eastbound stop on 72 St at Broadway temporarily closed</a><br/><br/><div id= 193707 class=\"plannedWorkDetail\" ></b>Until further notice<br><br>Due to construction, please use the nearby stop <b>on West End Av </b>at <a href=http://bustime.mta.info/#403036%20M57 target=_blank><font color=#0000FF>72 St</font></a>.<br><b>                              [TP]<br></div></b><br/>\r\n              <br/>\r\n              <br/>\r\n            \r\n                  <span class=\"TitlePlannedWork\" >Planned Detour</span>\r\n                  <br/>\r\n                <a class=\"plannedWorkDetailLink\" onclick=ShowHide(193704);><b>M5/M5 </b>LTD - <b>Southbound stop on 72 St at Broadway temporarily closed</a><br/><br/><div id= 193704 class=\"plannedWorkDetail\" ></b>Until further notice<br><br>Due to construction, please use nearby stops <b>on Broadway </b>at 72 St or <b>on 72 St </b>at <a href=http://bustime.mta.info/#400853%20M5 target=_blank><font color=#0000FF>West End Av</font></a>.<br><b>                              [TP]<br></div></b><br/>\r\n              <br/>\r\n              <br/>\r\n            \r\n                  <span class=\"TitlePlannedWork\" >Planned Detour</span>\r\n                  <br/>\r\n                <a class=\"plannedWorkDetailLink\" onclick=ShowHide(193569);><b>M14D buses rerouted from 18 St between 10 Av and 11 Av </a><br/><br/><div id= 193569 class=\"plannedWorkDetail\" ></b>Until further notice<br><br>Due to construction:<br><br><b>Eastbound<br></b>&bull;  </font>The 11 Av at 17 St bus stop will be made <b>on 18 St </b>at <a href=http://bustime.mta.info/#450222%20M14D target=_blank><font color=#0000FF>10 Av</font></a>.<br><br><b>Westbound<br></b>&bull;</font>  The 11 Av at 15 St and 17 St bus stops will be made <b>on 10 Av </b>at <a href=http://bustime.mta.info/#405151%20M11 target=_blank><font color=#0000FF>16 St</font></a> (<b>M11 </b>bus stop).<br><b>                              [TP]<br></div></b><br/>\r\n              <br/>\r\n              <br/>\r\n            \r\n                  <span class=\"TitlePlannedWork\" >Planned Detour</span>\r\n                  <br/>\r\n                <a class=\"plannedWorkDetailLink\" onclick=ShowHide(192356);><b>M14A/M14D - Westbound stop on 14 St at 7 Av temporarily relocated</a><br/><br/><div id= 192356 class=\"plannedWorkDetail\" ></b>Until further notice<br><br>Due to construction, please follow directional signage to the nearby temporary stop <b>on 14 St </b>between 7 Av and 8 Av.<br><b>         </b><a href=http://bustime.mta.info/ target=_blank><img height=30px src=http://web.mta.info/nyct/images/Bus_Time_logo.png></a><br><br></div></b><br/>\r\n              <br/>\r\n              <br/>\r\n            \r\n                  <span class=\"TitlePlannedWork\" >Planned Detour</span>\r\n                  <br/>\r\n                <a class=\"plannedWorkDetailLink\" onclick=ShowHide(192469);><b>M11 </b>-<b> Northbound buses rerouted from 14 St at 9 Av</a><br/><br/><div id= 192469 class=\"plannedWorkDetail\" ></b>Until further notice<br><br>Due to construction, the Bethune St at Greenwich St and the Greenwich St at Horatio stops will be made on Hudson St at Bethune St.<br><b>         </b><a href=http://bustime.mta.info/ target=_blank><img height=30px src=http://web.mta.info/nyct/images/Bus_Time_logo.png></a><br><br></div></b><br/>\r\n              <br/>\r\n              <br/>\r\n            "
+            ],
+            "Date": [
+              "07/04/2018"
+            ],
+            "Time": [
+              "12:12PM"
+            ]
+          },
+          {
+            "name": [
+              "Q1 - Q113"
+            ],
+            "status": [
+              "PLANNED WORK"
+            ],
+            "text": [
+              "\r\n                  <span class=\"TitlePlannedWork\" >Planned Detour</span>\r\n                  <br/>\r\n                <a class=\"plannedWorkDetailLink\" onclick=ShowHide(193759);><b>Q70 </b>SBS<b> buses are fare free during the Independence Day travel period</a><br/><br/><div id= 193759 class=\"plannedWorkDetail\" ></b>Beginning 12:01 AM Tuesday, Jul 3 until 11:59 PM Thursday, Jul 5<br><br>Ride free on the <a href=http://web.mta.info/mta/planning/sbs/Q70SBS.html target=_blank><font color=#0000FF>LaGuardia Link Q70 SBS</font></a>. Customers do not have to <br>obtain a Select Bus Service ticket and may board at any door.<br><br><b>Note:</b> Customers transferring to the subway will still have to pay the subway fare.<br><b><br></div></b><br/>\r\n              <br/>\r\n              <br/>\r\n            \r\n                  <span class=\"TitlePlannedWork\" >Planned Detour</span>\r\n                  <br/>\r\n                <a class=\"plannedWorkDetailLink\" onclick=ShowHide(168561);><b>Q64, QM4 and QM44 buses may experience delays<br clear=left>due to construction on the Jewel Av exit of the Van Wyck Expy</a><br/><br/><div id= 168561 class=\"plannedWorkDetail\" ></b>Until further notice<br><b></b>          <a href=http://bustime.mta.info/ target=_blank><img height=30px src=http://web.mta.info/nyct/images/Bus_Time_logo.png></a><br></div></b><br/>\r\n              <br/>\r\n              <br/>\r\n            \r\n                  <span class=\"TitlePlannedWork\" >Planned Detour</span>\r\n                  <br/>\r\n                <a class=\"plannedWorkDetailLink\" onclick=ShowHide(193858);><b>Q59</b> - <b>Westbound buses rerouted from Grand St at Union Av to Driggs Av at Broadway</a><br/><br/><div id= 193858 class=\"plannedWorkDetail\" ></b>Noon to 9 PM, Wednesday, Jul 4<br><br>Due to a local event, buses run via <b>Driggs Av </b>making corresponding stops.<br><br><i>Reroute Details<br></i>Via Grand St<br>Left on Driggs Av<br>Left on Broadway then regular route<br><b><br></div></b><br/>\r\n              <br/>\r\n              <br/>\r\n            \r\n                  <span class=\"TitlePlannedWork\" >Planned Detour</span>\r\n                  <br/>\r\n                <a class=\"plannedWorkDetailLink\" onclick=ShowHide(147045);><b>Q38, Q39, Q54, Q58/Q58 </b>LTD<b> and Q67 buses may experience delays<br clear=left>due to construction on Metropolitan Av at Fresh Pond Rd</a><br/><br/><div id= 147045 class=\"plannedWorkDetail\" ></b>6 AM to 10 PM, until further notice<br><b></b>          <a href=http://bustime.mta.info/ target=_blank><img height=30px src=http://web.mta.info/nyct/images/Bus_Time_logo.png></a><br></div></b><br/>\r\n              <br/>\r\n              <br/>\r\n            \r\n                  <span class=\"TitlePlannedWork\" >Planned Detour</span>\r\n                  <br/>\r\n                <a class=\"plannedWorkDetailLink\" onclick=ShowHide(152128);><b>Q27/Q27 </b>LTD<b>, Q30, QM5 and QM35 buses may experience delays<br clear=left>due to construction on Springfield Blvd between Horace Harding Expy and 56 Av</a><br/><br/><div id= 152128 class=\"plannedWorkDetail\" ></b>Until further notice<br><b>          <br></div></b><br/>\r\n              <br/>\r\n              <br/>\r\n            "
+            ],
+            "Date": [
+              "07/04/2018"
+            ],
+            "Time": [
+              " 1:32PM"
+            ]
+          },
+          {
+            "name": [
+              "QM1 - QM44"
+            ],
+            "status": [
+              "PLANNED WORK"
+            ],
+            "text": [
+              "\r\n                  <span class=\"TitlePlannedWork\" >Planned Detour</span>\r\n                  <br/>\r\n                <a class=\"plannedWorkDetailLink\" onclick=ShowHide(168561);><b>Q64, QM4 and QM44 buses may experience delays<br clear=left>due to construction on the Jewel Av exit of the Van Wyck Expy</a><br/><br/><div id= 168561 class=\"plannedWorkDetail\" ></b>Until further notice<br><b></b>          <a href=http://bustime.mta.info/ target=_blank><img height=30px src=http://web.mta.info/nyct/images/Bus_Time_logo.png></a><br></div></b><br/>\r\n              <br/>\r\n              <br/>\r\n            \r\n                  <span class=\"TitlePlannedWork\" >Planned Detour</span>\r\n                  <br/>\r\n                <a class=\"plannedWorkDetailLink\" onclick=ShowHide(152128);><b>Q27/Q27 </b>LTD<b>, Q30, QM5 and QM35 buses may experience delays<br clear=left>due to construction on Springfield Blvd between Horace Harding Expy and 56 Av</a><br/><br/><div id= 152128 class=\"plannedWorkDetail\" ></b>Until further notice<br><b>          <br></div></b><br/>\r\n              <br/>\r\n              <br/>\r\n            "
+            ],
+            "Date": [
+              "07/04/2018"
+            ],
+            "Time": [
+              " 1:32PM"
+            ]
+          },
+          {
+            "name": [
+              "S40 - S98"
+            ],
+            "status": [
+              "PLANNED WORK"
+            ],
+            "text": [
+              "\r\n                  <span class=\"TitlePlannedWork\" >Planned Detour</span>\r\n                  <br/>\r\n                <a class=\"plannedWorkDetailLink\" onclick=ShowHide(194133);><b>S62 buses rerouted from Victory Blvd between West Shore Expy and Travis Av<br clear=left>No service on Victory Blvd between Cateret St Ferry and West Shore Expy</a><br/><br/><div id= 194133 class=\"plannedWorkDetail\" ></b>12 noon to 3 PM, Wednesday, Jul 4<br><br>Due to a parade, buses run via <b>South Av </b>making corresponding stops in both directions.<br><br><b><i><a style=\"cursor:pointer; text-decoration:underline;\" onclick=ShowHide(1941330);>Show Reroute Details</a></i></b><br><div id=\"1941330\"; style=\"display:none;\"><b>Eastbound<br></b>From West Shore Plaza<br>Right on South Av<br>Right on Travis Av<br>Left on Victory Blvd then regular route<br><br><b>Westbound<br></b>Via Victory Blvd<br>Right on Travis Av<br>Left on South Av<br>Left into West Shore Plaza and take stand</div><br><b><br></div></b><br/>\r\n              <br/>\r\n              <br/>\r\n            "
+            ],
+            "Date": [
+              "07/04/2018"
+            ],
+            "Time": [
+              " 1:32PM"
+            ]
+          },
+          {
+            "name": [
+              "x1 - x68"
+            ],
+            "status": [
+              "PLANNED WORK"
+            ],
+            "text": [
+              "\r\n                  <span class=\"TitlePlannedWork\" >Planned Detour</span>\r\n                  <br/>\r\n                <a class=\"plannedWorkDetailLink\" onclick=ShowHide(193864);><b>X28 buses rerouted from West 17 St/West 20 St between Neptune Av and Surf Av</a><br/><br/><div id= 193864 class=\"plannedWorkDetail\" ></b>3 AM to 6 PM, Wednesday, Jul 4<br><br>Due to a local event:<br><br><b>Northbound</b>: Buses run via Neptune Av and West 22 St.<br><br><b>Southbound</b>: Buses run via Neptune Av and West 23 St.<br><br>Buses make corresponding stops along the detoured route.<br><br><b><i><a style=\"cursor:pointer; text-decoration:underline;\" onclick=ShowHide(1938640);>Show Reroute Details</a></i></b><br><div id=\"1938640\"; style=\"display:none;\"><b>Northbound<br></b>Via Surf Av<br>Left on West 22 St<br>Right on Neptune Av to West 20 St then regular route<br><br><b>Southbound<br></b>Via Cropsey Av<br>Right on Neptune Av<br>Left on West 23 St<br>Right on Surf Av then regular route</div><br><b><br></div></b><br/>\r\n              <br/>\r\n              <br/>\r\n            "
+            ],
+            "Date": [
+              "07/04/2018"
+            ],
+            "Time": [
+              " 1:32PM"
+            ]
+          }
+        ]
+      }
+    ],
+    "BT": [
+      {
+        "line": [
+          {
+            "name": [
+              "Bronx-Whitestone"
+            ],
+            "status": [
+              "GOOD SERVICE"
+            ],
+            "text": [
+              ""
+            ],
+            "Date": [
+              ""
+            ],
+            "Time": [
+              ""
+            ]
+          },
+          {
+            "name": [
+              "Cross Bay"
+            ],
+            "status": [
+              "GOOD SERVICE"
+            ],
+            "text": [
+              ""
+            ],
+            "Date": [
+              ""
+            ],
+            "Time": [
+              ""
+            ]
+          },
+          {
+            "name": [
+              "Henry Hudson"
+            ],
+            "status": [
+              "GOOD SERVICE"
+            ],
+            "text": [
+              ""
+            ],
+            "Date": [
+              ""
+            ],
+            "Time": [
+              ""
+            ]
+          },
+          {
+            "name": [
+              "Hugh L. Carey"
+            ],
+            "status": [
+              "GOOD SERVICE"
+            ],
+            "text": [
+              ""
+            ],
+            "Date": [
+              ""
+            ],
+            "Time": [
+              ""
+            ]
+          },
+          {
+            "name": [
+              "Marine Parkway"
+            ],
+            "status": [
+              "GOOD SERVICE"
+            ],
+            "text": [
+              ""
+            ],
+            "Date": [
+              ""
+            ],
+            "Time": [
+              ""
+            ]
+          },
+          {
+            "name": [
+              "Queens Midtown"
+            ],
+            "status": [
+              "GOOD SERVICE"
+            ],
+            "text": [
+              ""
+            ],
+            "Date": [
+              ""
+            ],
+            "Time": [
+              ""
+            ]
+          },
+          {
+            "name": [
+              "Robert F. Kennedy"
+            ],
+            "status": [
+              "GOOD SERVICE"
+            ],
+            "text": [
+              ""
+            ],
+            "Date": [
+              ""
+            ],
+            "Time": [
+              ""
+            ]
+          },
+          {
+            "name": [
+              "Throgs Neck"
+            ],
+            "status": [
+              "GOOD SERVICE"
+            ],
+            "text": [
+              ""
+            ],
+            "Date": [
+              ""
+            ],
+            "Time": [
+              ""
+            ]
+          },
+          {
+            "name": [
+              "Verrazano-Narrows"
+            ],
+            "status": [
+              "GOOD SERVICE"
+            ],
+            "text": [
+              ""
+            ],
+            "Date": [
+              ""
+            ],
+            "Time": [
+              ""
+            ]
+          }
+        ]
+      }
+    ],
+    "LIRR": [
+      {
+        "line": [
+          {
+            "name": [
+              "Babylon"
+            ],
+            "status": [
+              "GOOD SERVICE"
+            ],
+            "text": [
+              ""
+            ],
+            "Date": [
+              ""
+            ],
+            "Time": [
+              ""
+            ]
+          },
+          {
+            "name": [
+              "City Terminal Zone"
+            ],
+            "status": [
+              "SERVICE CHANGE"
+            ],
+            "text": [
+              "\r\n                    <span class=\"TitleServiceChange\" >Service Change</span>\r\n                    <span class=\"DateStyle\">\r\n                    &nbsp;Posted:&nbsp;07/04/2018&nbsp;12:44PM\r\n                    </span><br/><br/>\r\n                  <font face=\"Times New Roman\" size=\"3\">\r\n\r\n</font><p><span style=\"color: black; font-family: \"Calibri\",sans-serif;\"><font size=\"3\"></font></span></p><span>The 12:30PM train from Jamaica, due into Belmont Park at 12:43PM, is canceled due to a disabled train ahead. As an alternative, take the E subway to Jamaica Center/Parsons/Archer for a connection to the Q110 bus, which travels directly to Belmont Park's LIRR station. NYC Transit is cross-honoring LIRR tickets on the E and the Q110 bus.Â </span><p><span style=\"color: black; font-family: \"Calibri\",sans-serif;\"><font size=\"3\"></font></span></p><font face=\"Times New Roman\" size=\"3\">\r\n\r\n</font>\r\n                <br/><br/>\r\n              "
+            ],
+            "Date": [
+              "07/04/2018"
+            ],
+            "Time": [
+              "12:44PM"
+            ]
+          },
+          {
+            "name": [
+              "Far Rockaway"
+            ],
+            "status": [
+              "GOOD SERVICE"
+            ],
+            "text": [
+              ""
+            ],
+            "Date": [
+              ""
+            ],
+            "Time": [
+              ""
+            ]
+          },
+          {
+            "name": [
+              "Hempstead"
+            ],
+            "status": [
+              "GOOD SERVICE"
+            ],
+            "text": [
+              ""
+            ],
+            "Date": [
+              ""
+            ],
+            "Time": [
+              ""
+            ]
+          },
+          {
+            "name": [
+              "Long Beach"
+            ],
+            "status": [
+              "GOOD SERVICE"
+            ],
+            "text": [
+              ""
+            ],
+            "Date": [
+              ""
+            ],
+            "Time": [
+              ""
+            ]
+          },
+          {
+            "name": [
+              "Montauk"
+            ],
+            "status": [
+              "DELAYS"
+            ],
+            "text": [
+              "\r\n                    <span class=\"TitleDelay\">Delays</span>\r\n                    <span class=\"DateStyle\">\r\n                    &nbsp;Posted:&nbsp;07/04/2018&nbsp; 1:10PM\r\n                    </span><br/><br/>\r\n                  <div><span style=\"font-size: 10pt;\">The 11:26AM train from Montauk due Jamaica at 1:58PM is operating 16 minutes late due to a late-arriving eastbound train in single-track territory.</span></div>\r\n                <br/><br/>\r\n              "
+            ],
+            "Date": [
+              "07/04/2018"
+            ],
+            "Time": [
+              " 1:10PM"
+            ]
+          },
+          {
+            "name": [
+              "Oyster Bay"
+            ],
+            "status": [
+              "GOOD SERVICE"
+            ],
+            "text": [
+              ""
+            ],
+            "Date": [
+              ""
+            ],
+            "Time": [
+              ""
+            ]
+          },
+          {
+            "name": [
+              "Port Jefferson"
+            ],
+            "status": [
+              "GOOD SERVICE"
+            ],
+            "text": [
+              ""
+            ],
+            "Date": [
+              ""
+            ],
+            "Time": [
+              ""
+            ]
+          },
+          {
+            "name": [
+              "Port Washington"
+            ],
+            "status": [
+              "GOOD SERVICE"
+            ],
+            "text": [
+              ""
+            ],
+            "Date": [
+              ""
+            ],
+            "Time": [
+              ""
+            ]
+          },
+          {
+            "name": [
+              "Ronkonkoma"
+            ],
+            "status": [
+              "GOOD SERVICE"
+            ],
+            "text": [
+              ""
+            ],
+            "Date": [
+              ""
+            ],
+            "Time": [
+              ""
+            ]
+          },
+          {
+            "name": [
+              "West Hempstead"
+            ],
+            "status": [
+              "GOOD SERVICE"
+            ],
+            "text": [
+              ""
+            ],
+            "Date": [
+              ""
+            ],
+            "Time": [
+              ""
+            ]
+          }
+        ]
+      }
+    ],
+    "MetroNorth": [
+      {
+        "line": [
+          {
+            "name": [
+              "Hudson"
+            ],
+            "status": [
+              "GOOD SERVICE"
+            ],
+            "text": [
+              ""
+            ],
+            "Date": [
+              ""
+            ],
+            "Time": [
+              ""
+            ]
+          },
+          {
+            "name": [
+              "Harlem"
+            ],
+            "status": [
+              "GOOD SERVICE"
+            ],
+            "text": [
+              ""
+            ],
+            "Date": [
+              ""
+            ],
+            "Time": [
+              ""
+            ]
+          },
+          {
+            "name": [
+              "Wassaic"
+            ],
+            "status": [
+              "GOOD SERVICE"
+            ],
+            "text": [
+              ""
+            ],
+            "Date": [
+              ""
+            ],
+            "Time": [
+              ""
+            ]
+          },
+          {
+            "name": [
+              "New Haven"
+            ],
+            "status": [
+              "GOOD SERVICE"
+            ],
+            "text": [
+              ""
+            ],
+            "Date": [
+              ""
+            ],
+            "Time": [
+              ""
+            ]
+          },
+          {
+            "name": [
+              "New Canaan"
+            ],
+            "status": [
+              "GOOD SERVICE"
+            ],
+            "text": [
+              ""
+            ],
+            "Date": [
+              ""
+            ],
+            "Time": [
+              ""
+            ]
+          },
+          {
+            "name": [
+              "Danbury"
+            ],
+            "status": [
+              "GOOD SERVICE"
+            ],
+            "text": [
+              ""
+            ],
+            "Date": [
+              ""
+            ],
+            "Time": [
+              ""
+            ]
+          },
+          {
+            "name": [
+              "Waterbury"
+            ],
+            "status": [
+              "GOOD SERVICE"
+            ],
+            "text": [
+              ""
+            ],
+            "Date": [
+              ""
+            ],
+            "Time": [
+              ""
+            ]
+          },
+          {
+            "name": [
+              "Pascack Valley"
+            ],
+            "status": [
+              "PLANNED WORK"
+            ],
+            "text": [
+              "\r\n                    <span class=\"TitlePlannedWork\" >Planned Work</span>\r\n                    <span class=\"DateStyle\">\r\n                    &nbsp;Posted:&nbsp;06/18/2018&nbsp; 7:23AM\r\n                    </span><br/><br/>\r\n                  <font face=\"sans-serif\"><span style=\"font-size: 13.3333px;\">Service Adjustments Required To Advance Positive Train Control (PTC) Equipment Installation. Beginning Monday, June 4th, some weekday trains will be temporarily discontinued or will have changes to trip origin or destination. This will impact customers along the NEC, NJCL, M&E and PVL. Other trains throughout the system will have adjustments to schedules and/or station stops. Visit njtransit.com for more information.</span></font>\r\n                <br/><br/>\r\n              "
+            ],
+            "Date": [
+              "06/18/2018"
+            ],
+            "Time": [
+              " 7:23AM"
+            ]
+          },
+          {
+            "name": [
+              "Port Jervis"
+            ],
+            "status": [
+              "GOOD SERVICE"
+            ],
+            "text": [
+              ""
+            ],
+            "Date": [
+              ""
+            ],
+            "Time": [
+              ""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

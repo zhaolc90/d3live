@@ -49,17 +49,17 @@ export default class Chart extends React.Component{
 
   render() {
     return <div>
-      <div id={'someDiv'}>11111</div>
+      {/* <div id={'someDiv'}>11111</div>
       <input type='checkbox' id='someCheckbox'/>
       <div className="controls">
         <button className="btn randomize" onClick={this.onButton}>
           run d3
         </button>
-      </div>
+      </div> */}
       <LiveProvider scope={scope} code={code}>
+        <LivePreview />
         <LiveEditor />
         <LiveError />
-        <LivePreview />
       </LiveProvider>
       <h1>Playing With React and D3</h1>
       <ScatterPlot {...this.state} {...styles} />

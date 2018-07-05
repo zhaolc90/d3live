@@ -7,6 +7,8 @@ class d3code extends React.Component {
     }
     onButton() {
         d3.select('#someDiv').style('background','red')
+        d3.select("circle").remove()
+        d3.select("rect").style("fill", "purple") 
     }
     render() {
         return (
@@ -26,6 +28,8 @@ class d3code extends React.Component {
     }
     onButton() {
         d3.select('#someDiv').style('background','red')
+        d3.select("circle").remove()
+        d3.select("rect").style("fill", "purple") 
     }
     render() {
         return (
